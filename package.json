@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "check:pr-callback": "node scripts/check-pr-callback.js",
     "test": "node scripts/check-readme.js"
   }
 }
