@@ -7,6 +7,9 @@ GitHub review posting, and cmux chat callbacks.
 Keep changes tiny and reversible. Prefer documentation-only edits unless a
 test explicitly needs code.
 
+Follow the validation run policy in README.md for every smoke PR. The policy is
+the source of truth for scope, verification, and merge readiness.
+
 ## Commands
 
 ```bash
